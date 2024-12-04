@@ -1,0 +1,539 @@
+[{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce7e"
+  },
+  "name": "Авангард",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce7f"
+  },
+  "name": "Гурман",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce80"
+  },
+  "name": "Драма",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce81"
+  },
+  "name": "Комедия",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce82"
+  },
+  "name": "Повседневность",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce83"
+  },
+  "name": "Приключения",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce84"
+  },
+  "name": "Романтика",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce85"
+  },
+  "name": "Сверхъестественное",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce86"
+  },
+  "name": "Спорт",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce87"
+  },
+  "name": "Тайна",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce88"
+  },
+  "name": "Триллер",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce89"
+  },
+  "name": "Ужасы",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce8a"
+  },
+  "name": "Фантастика",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce8b"
+  },
+  "name": "Фэнтези",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce8c"
+  },
+  "name": "Экшен",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce8d"
+  },
+  "name": "Этти",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce8e"
+  },
+  "name": "Эротика",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce8f"
+  },
+  "name": "Городское фэнтези",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce90"
+  },
+  "name": "Злодейка",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce91"
+  },
+  "name": "CGDCT",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce92"
+  },
+  "name": "Антропоморфизм",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce93"
+  },
+  "name": "Боевые искусства",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce94"
+  },
+  "name": "Вампиры",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce95"
+  },
+  "name": "Взрослые персонажи",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce96"
+  },
+  "name": "Видеоигры",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce97"
+  },
+  "name": "Военное",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce98"
+  },
+  "name": "Выживание",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce99"
+  },
+  "name": "Гарем",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce9a"
+  },
+  "name": "Гонки",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce9b"
+  },
+  "name": "Гэг-юмор",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce9c"
+  },
+  "name": "Детектив",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce9d"
+  },
+  "name": "Жестокость",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce9e"
+  },
+  "name": "Забота о детях",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ce9f"
+  },
+  "name": "Игра с высокими ставками",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cea0"
+  },
+  "name": "Идолы (Жен.)",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cea1"
+  },
+  "name": "Идолы (Муж.)",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cea2"
+  },
+  "name": "Изобразительное искусство",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cea3"
+  },
+  "name": "Исполнительское искусство",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cea4"
+  },
+  "name": "Исторический",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cea5"
+  },
+  "name": "Исэкай",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cea6"
+  },
+  "name": "Иясикэй",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cea7"
+  },
+  "name": "Командный спорт",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cea8"
+  },
+  "name": "Космос",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cea9"
+  },
+  "name": "Кроссдрессинг",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceaa"
+  },
+  "name": "Культура отаку",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceab"
+  },
+  "name": "Любовный многоугольник",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceac"
+  },
+  "name": "Магическая смена пола",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cead"
+  },
+  "name": "Махо-сёдзё",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceae"
+  },
+  "name": "Медицина",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceaf"
+  },
+  "name": "Меха",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceb0"
+  },
+  "name": "Мифология",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceb1"
+  },
+  "name": "Музыка",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceb2"
+  },
+  "name": "Образовательное",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceb3"
+  },
+  "name": "Организованная преступность",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceb4"
+  },
+  "name": "Пародия",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceb5"
+  },
+  "name": "Питомцы",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceb6"
+  },
+  "name": "Психологическое",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceb7"
+  },
+  "name": "Путешествие во времени",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceb8"
+  },
+  "name": "Работа",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceb9"
+  },
+  "name": "Реверс-гарем",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceba"
+  },
+  "name": "Реинкарнация",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cebb"
+  },
+  "name": "Романтический подтекст",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cebc"
+  },
+  "name": "Самураи",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cebd"
+  },
+  "name": "Спортивные единоборства",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cebe"
+  },
+  "name": "Стратегические игры",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cebf"
+  },
+  "name": "Супер сила",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cec0"
+  },
+  "name": "Удостоено наград",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cec1"
+  },
+  "name": "Хулиганы",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cec2"
+  },
+  "name": "Школа",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cec3"
+  },
+  "name": "Шоу-бизнес",
+  "isTheme": true
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cec4"
+  },
+  "name": "Сёнен",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cec5"
+  },
+  "name": "Сёдзё",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cec6"
+  },
+  "name": "Сэйнэн",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cec7"
+  },
+  "name": "Дзёсей",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cec8"
+  },
+  "name": "Детское",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891cec9"
+  },
+  "name": "Сёдзё-ай",
+  "isTheme": false
+},
+{
+  "_id": {
+    "$oid": "674f5d05cbc34ef37891ceca"
+  },
+  "name": "Сёнен-ай",
+  "isTheme": false
+}]

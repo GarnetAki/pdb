@@ -1,0 +1,271 @@
+[{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cecf"
+  },
+  "name": "Hiroki Uchida / Хироки Утида",
+  "birthday": {
+    "$date": "1991-05-27T00:00:00.000Z"
+  },
+  "seriesComposition": 8,
+  "screenPlay": 1,
+  "script": 4
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891ced0"
+  },
+  "name": "Kyouhei Ishiguro / Кёхэй Исигуро",
+  "avatar": "/staff/2.png",
+  "birthday": {
+    "$date": "1980-04-02T00:00:00.000Z"
+  },
+  "director": 8,
+  "storyboard": 15,
+  "episodeDirector": 19,
+  "script": 2,
+  "story": 1
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891ced1"
+  },
+  "name": "Akira Amano / Акира Амано",
+  "avatar": "/staff/3.png",
+  "birthday": {
+    "$date": "1973-06-22T00:00:00.000Z"
+  },
+  "originalCreator": 4,
+  "story": 9
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891ced2"
+  },
+  "name": "Eku Takeshima / Эку Такэсима",
+  "avatar": "/staff/4.png",
+  "originalCreator": 2,
+  "story": 10
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891ced3"
+  },
+  "name": "Kenichi Imaizumi / Кэнъити Имаидзуми",
+  "director": 10,
+  "storyboard": 29,
+  "episodeDirector": 17,
+  "keyAnimation": 12
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891ced4"
+  },
+  "name": "Norio Fukui / Норио Фукуи",
+  "avatar": "/staff/6.png",
+  "producer": 30
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891ced5"
+  },
+  "name": "Hiro Kaburagi / Хиро Кабураги",
+  "avatar": "/staff/7.png",
+  "director": 15,
+  "storyboard": 24,
+  "seriesComposition": 1,
+  "episodeDirector": 27,
+  "assistantDirector": 1,
+  "script": 7,
+  "keyAnimation": 1
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891ced6"
+  },
+  "name": "Akihito Tsukushi / Акихито Цукуси",
+  "avatar": "/staff/8.png",
+  "birthday": {
+    "$date": "1979-05-05T00:00:00.000Z"
+  },
+  "originalCreator": 8,
+  "story": 2,
+  "keyAnimation": 1
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891ced7"
+  },
+  "name": "Goose house",
+  "avatar": "/staff/9.png",
+  "themeSonglyrics": 2,
+  "themeSongPerformance": 2
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891ced8"
+  },
+  "name": "Aki Hamaji / Аки Хамадзи",
+  "avatar": "/staff/10.png",
+  "originalCreator": 3,
+  "story": 6
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891ced9"
+  },
+  "name": "Kazuki Endou / Кадзуки Эндо",
+  "avatar": "/staff/11.png",
+  "producer": 9
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891ceda"
+  },
+  "name": "sing N song",
+  "avatar": "/staff/12.png",
+  "originalCreator": 1,
+  "story": 3
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cedb"
+  },
+  "name": "Ai Higuchi / Ай Хигути",
+  "avatar": "/staff/13.png",
+  "birthday": {
+    "$date": "1989-11-28T00:00:00.000Z"
+  },
+  "themeSonglyrics": 4,
+  "themeSongPerformance": 4
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cedc"
+  },
+  "name": "Keiichirou Saitou / Кэйитиро Сайто",
+  "avatar": "/staff/14.png",
+  "birthday": {
+    "$date": "1993-01-18T00:00:00.000Z"
+  },
+  "director": 5,
+  "storyboard": 8,
+  "episodeDirector": 9,
+  "keyAnimation": 36
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cedd"
+  },
+  "name": "Kaito Ishikawa / Кайто Исикава",
+  "avatar": "/staff/15.png",
+  "birthday": {
+    "$date": "1993-10-13T00:00:00.000Z"
+  },
+  "seiyu": 191,
+  "themeSongPerformance": 9
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cede"
+  },
+  "name": "Yoshino Aoyama / Ёсино Аояма",
+  "avatar": "/staff/16.png",
+  "birthday": {
+    "$date": "1996-05-15T00:00:00.000Z"
+  },
+  "seiyu": 49,
+  "themeSongPerformance": 3
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cedf"
+  },
+  "name": "Ikumi Hasegawa / Икуми Хасэгава",
+  "avatar": "/staff/17.png",
+  "seiyu": 67,
+  "themeSongPerformance": 12
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cee0"
+  },
+  "name": "Rumi Ookubo / Руми Окубо",
+  "avatar": "/staff/18.png",
+  "birthday": {
+    "$date": "1989-09-27T00:00:00.000Z"
+  },
+  "seiyu": 106,
+  "themeSongPerformance": 19
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cee1"
+  },
+  "name": "Ken Narita / Кэн Нарита",
+  "avatar": "/staff/19.png",
+  "birthday": {
+    "$date": {
+      "$numberLong": "-177465600000"
+    }
+  },
+  "seiyu": 108,
+  "themeSongPerformance": 1
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cee2"
+  },
+  "name": "Neeko",
+  "avatar": "/staff/20.png",
+  "birthday": {
+    "$date": "1983-10-28T00:00:00.000Z"
+  },
+  "seiyu": 5
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cee3"
+  },
+  "name": "Hibiku Yamamura / Хибику Ямамура",
+  "avatar": "/staff/21.png",
+  "birthday": {
+    "$date": "1988-02-10T00:00:00.000Z"
+  },
+  "seiyu": 73,
+  "themeSongPerformance": 8
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cee4"
+  },
+  "name": "Mayu Matsuoka / Маю Мацуока",
+  "avatar": "/staff/22.png",
+  "birthday": {
+    "$date": "1995-02-16T00:00:00.000Z"
+  },
+  "seiyu": 4
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cee5"
+  },
+  "name": "Miyu Irino / Мию Ирино",
+  "avatar": "/staff/23.png",
+  "birthday": {
+    "$date": "1988-02-19T00:00:00.000Z"
+  },
+  "seiyu": 123,
+  "themeSongPerformance": 10
+},
+{
+  "_id": {
+    "$oid": "674f5e6dcbc34ef37891cee6"
+  },
+  "name": "Shiori Izawa / Сиори Идзава",
+  "avatar": "/staff/24.png",
+  "birthday": {
+    "$date": "1987-02-01T00:00:00.000Z"
+  },
+  "seiyu": 100,
+  "themeSongPerformance": 8
+}]
